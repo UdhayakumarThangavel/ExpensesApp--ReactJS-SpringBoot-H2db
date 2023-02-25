@@ -61,11 +61,11 @@ Note: Default port for Spring boot app-8080,for react app-3000.This need to be s
 ## Screenshots
 
 ##### Login Page
-![App Screenshot](./Screenshots/localhost_3000_Homepage%20(2).png)
+![App Screenshot](./Screenshots/localhost_3000_Homepage%20(2)%20(Phone).png)
 ##### Home Page 
-![App Screenshot](./Screenshots/localhost_3000_Homepage.png)
+![App Screenshot](./Screenshots/localhost_3000_Homepage%20(Phone).png)
 ##### AddExpense Page 
-![App Screenshot](./Screenshots/localhost_3000_Homepage%20(1).png)
+![App Screenshot](./Screenshots/localhost_3000_Homepage%20(1)%20(Phone)%20(1).png.png)
 
 
 
